@@ -60,14 +60,31 @@ This will launch the web app in your browser. If it doesn't open automatically, 
 - ❌ `FileNotFoundError`: Make sure `heart.csv` is in the same folder as your `.py` file.
 - ❌ Browser not opening: Copy and paste the `localhost` link Streamlit shows into your browser.
 
----
 
-## 👥 Team Collaboration Tips
+## Workflow
 
-- Assign different tabs to different team members.
-- Save changes carefully or use version control like Git.
-- Ensure edits don't break other tabs or code sections.
+## Data Preparation
+![Data Preparation 1](SC/Data_Preparetion-1.png)
+![Data Understanding](SC/Data_Understanding-1.png)
 
----
+## Models
+![KNN](SC/KNN.png)
+![Logistic Regression](SC/LR.png)
+![Model We Choose](SC/Model_we_choose.png)
 
-Enjoy building and exploring!
+## SVM Models
+![SVM 1](SC/SVM1.png)
+![SVM 2](SC/SVM2.png)
+![SVM 3](SC/SVM3.png)
+
+## Dataset Split
+![Split](SC/Split.png)
+
+## Analysis
+![Correlation Matrix](SC/correlation_matrix.png)
+![Performance](SC/perfomace.png)
+
+## Final Result
+![Result](SC/Result.png)
+
+
