@@ -82,7 +82,7 @@ This will launch the web app in your browser. If it doesn't open automatically, 
 
 ## Analysis
 ![Correlation Matrix](SC/correlation_matrix.png)
-![Performance](SC/perfomace.png)
+![Performance](SC/performace.png)
 
 ## Final Result
 ![Result](SC/Result.png)
